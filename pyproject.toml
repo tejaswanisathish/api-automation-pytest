@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "reqres-automation"
+version = "0.1.0"
+description = ""
+authors = ["Tejaswani Sathish Kumar <tejaswani12.92@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+httpx = "^0.25.0"
+pydantic = "^2.4.2"
+pydantic-settings = "^2.0.3"
+pytest = "^7.4.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

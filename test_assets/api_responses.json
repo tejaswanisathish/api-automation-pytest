@@ -1,0 +1,16 @@
+{
+    "register_successful_response": {
+        "id": 4,
+        "token": "QpwL5tke4Pnpja7X4"
+    },
+    "login_successful_response": {
+        "token": "QpwL5tke4Pnpja7X4"
+    },
+    "test_resource_meta_response": {
+        "id": 3,
+        "name": "true red",
+        "year": 2002,
+        "color": "#BF1932",
+        "pantone_value": "19-1664"
+    }
+}
