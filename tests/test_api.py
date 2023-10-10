@@ -3,7 +3,7 @@
 
 import http
 
-from lib.schema import (
+from core.schema import (
     ListResourceResponse,
     ResourceMetadata,
     SuccessfulLoginResponse,

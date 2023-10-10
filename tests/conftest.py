@@ -5,7 +5,7 @@ import json
 import httpx
 import pytest
 
-from lib.config import config
+from core.config import config
 
 
 @pytest.fixture
